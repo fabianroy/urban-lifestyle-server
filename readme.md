@@ -18,7 +18,6 @@ To run the backend locally, follow the steps below.
 
 1. **Clone the repository:**
 
-   ```bash
    git clone https://github.com/yourusername/urban-lifestyles-backend.git
 
 2. cd urban-lifestyles-backend
