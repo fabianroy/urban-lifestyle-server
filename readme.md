@@ -25,3 +25,7 @@ To run the backend locally, follow the steps below.
 3. npm install
 
 4. nodemon index.js
+
+
+### API Link      : https://ul-server-plum.vercel.app
+### Product Route : https://ul-server-plum.vercel.app/products
